@@ -9,7 +9,7 @@ permissions:
   pages: write
   id-token: write
 env:
-  DEPLOY_BASE_URL: ${{ secrets.DEPLOY_BASE_URL }}
+  DEPLOY_BASE_URL: ${{vars.DEPLOY_BASE_URL}}
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -32,7 +32,7 @@ jobs:
       - name: Instalar Dependencias
         run: npm install
       - name: Verificar Variables de Ambiente
-        run: echo "DEPLOY_BASE_URL=$DEPLOY_BASE_URL"
+        run : echo "DEPLOY_BASE_URL $DEPLOY_BASE_URL"
       - name: Compilar Proyecto
         run: npm run build
       - name: Configurar Github Pages

@@ -1,0 +1,400 @@
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 100;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 200;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 300;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 500;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 600;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 700;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 800;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 900;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 800;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf) format("truetype")
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center
+}
+
+header {
+    background: linear-gradient(90deg, #ff4b1f, #1fddff);
+    color: #fff;
+    padding: 20px;
+    font-size: 1.5em;
+    text-transform: uppercase
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center
+}
+
+nav ul li {
+    margin: 0 20px
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.2em;
+    transition: color .3s
+}
+
+nav ul li a:hover {
+    color: #ff4b1f
+}
+
+section {
+    padding: 40px;
+    background: #323232e6;
+    margin: 30px auto;
+    width: 80%;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #ff4b1fb3;
+    transition: transform .3s ease
+}
+
+section:hover {
+    transform: scale(1.02)
+}
+
+.proyecto img,
+.galeria img {
+    width: 100%;
+    max-width: 400px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px
+}
+
+#perfil img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 5px solid white;
+    box-shadow: 0 0 15px #ff4b1fb3;
+    cursor: pointer
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto
+}
+
+form label {
+    align-self: flex-start;
+    font-weight: 700;
+    margin-top: 10px
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc
+}
+
+form textarea {
+    height: 150px;
+    resize: vertical
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0
+    }
+
+    form {
+        width: 90%
+    }
+}
+
+@media (min-width: 1024px) {
+    section {
+        width: 70%
+    }
+}
+
+#perfil {
+    text-align: center
+}
+
+#perfil h2 {
+    font-size: 2.2em;
+    font-weight: 700;
+    color: #fff;
+    margin: 10px 0
+}
+
+#perfil p {
+    font-size: 1.3em;
+    color: #fff;
+    max-width: 600px;
+    margin: 10px auto;
+    line-height: 1.5
+}
+
+#perfil #info-perfil {
+    background: #323232e6;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #ff4b1fb3;
+    margin-top: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left
+}
+
+#perfil #info-perfil h3 {
+    margin-top: 15px;
+    font-size: 1.7em;
+    color: #fff;
+    border-bottom: 2px solid #ff4b1f;
+    padding-bottom: 5px;
+    text-transform: uppercase
+}
+
+#perfil #info-perfil p {
+    font-size: 1.2em;
+    margin: 5px 0
+}
+
+#perfil #info-perfil ul {
+    padding-left: 20px
+}
+
+#perfil #info-perfil ul li {
+    list-style: square;
+    margin: 5px 0;
+    font-size: 1.2em
+}
+
+button {
+    background: linear-gradient(90deg, #ff4b1f, #1fddff);
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: 700;
+    transition: background .3s, transform .2s;
+    margin-top: 20px
+}
+
+button:hover {
+    background: linear-gradient(90deg, #1fddff, #ff4b1f);
+    transform: scale(1.1)
+}
+
+footer {
+    background: #ff4b1f;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 1em;
+    font-weight: 700;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 -5px 10px #0000004d
+}
+
+footer p {
+    margin: 0 auto;
+    max-width: 90%;
+    opacity: .8;
+    transition: opacity .3s ease-in-out;
+    word-wrap: break-word
+}
+
+footer p:hover {
+    opacity: 1
+}
+
+@media (max-width: 768px) {
+    footer {
+        font-size: .9em;
+        padding: 15px
+    }
+}
+
+@media (max-width: 480px) {
+    footer {
+        font-size: .8em;
+        padding: 12px
+    }
+
+    footer p {
+        max-width: 95%;
+        font-size: .9em
+    }
+}

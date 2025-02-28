@@ -1,0 +1,16 @@
+@primary-color: #ff4b1f;
+@secondary-color: #1fddff;
+@background-color: #1a1a1a;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: @background-color;
+  color: white;
+}
+
+button {
+  background: linear-gradient(90deg, @primary-color, @secondary-color);
+  &:hover {
+    background: linear-gradient(90deg, @secondary-color, @primary-color);
+  }
+}
